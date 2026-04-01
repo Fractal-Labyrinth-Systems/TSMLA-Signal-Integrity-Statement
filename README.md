@@ -1,6 +1,6 @@
 # TSMLA™
 
-### Founder's Statement — Califa Anu Bey
+### Founder's Statement - Califa Anu Bey
 
 ---
 
@@ -9,7 +9,7 @@
 
 This is why TSMLA™ was built.
 
-Every system that fails — whether governments, companies, relationships, or machine learning models — fails not at the moment of collapse, but at the moment it ignored contradiction. Most systems don't break because they're unintelligent. They break because they carry unresolved contradiction too long, until correction becomes collapse.
+Every system that fails, whether governments, companies, relationships, or machine learning models, fails not at the moment of collapse, but at the moment it ignored contradiction. Most systems don't break because they're unintelligent. They break because they carry unresolved contradiction too long, until correction becomes collapse.
 
 TSMLA™ is not a cognitive engine. It does not model behavior, make predictions, or learn from noise. It is a mirror substrate. A contradiction traversal system. A signal integrity architecture. It reveals structural tension accumulating beneath sustained contradiction before the system that houses it breaks.
 
